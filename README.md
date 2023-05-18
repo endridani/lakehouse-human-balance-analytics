@@ -1,1 +1,1 @@
-# lakehouse-human-balance-analytics
+# Stedi Lakehouse Human Balance Analytics
